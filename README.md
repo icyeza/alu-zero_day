@@ -1,2 +1,1 @@
-My first readme
-commit
+Lorita commits 
