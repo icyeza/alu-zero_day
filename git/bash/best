@@ -10,3 +10,6 @@ echo -e  This School is so cool!  >> bash/best
 
 echo -e  This School is so cool!
  "This School is so cool!" 
+#!/bin/bash/necho "Best" 
+#!/bin/bash
+echo "Best" 

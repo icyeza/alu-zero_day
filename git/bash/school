@@ -6,3 +6,5 @@ echo -e  The school is open!  >> bash/school
 
 echo -e  The school is open!
  "The school is open!" 
+#!/bin/bash
+echo "School" 
